@@ -3,5 +3,5 @@
 Enter_your_Age::Enter_your_Age(QWidget *parent)
 	: QMainWindow(parent)
 {
-	ui.setupUi(this);
+	ui.setupUi(this);//Ìí¼ÓÁË×¢ÊÍ
 }
